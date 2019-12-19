@@ -1,0 +1,2 @@
+# music-recommendations-collaborative-filtering
+Leveraged python libraries to perform Data Mining and Modelling techniques on user data from the “last.fm" app to design, analyze and implement an approach for a music recommendation system that takes user clusters’ variables for customized song recommendations. Analyzed various Similarity measures and Clustering algorithms and derived insights using Tableau to optimize the recommendation vector and achieved a recall of 73%.
